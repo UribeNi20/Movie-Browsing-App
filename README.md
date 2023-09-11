@@ -28,13 +28,9 @@ The following **additional** features are implemented:
 	• Create a way to go from the app to a trailer link
 
 ## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[![Watch the video](https://i.imgur.com/0kb50h0.png)](https://youtu.be/eBcykzqgQYg?si=8cWxfR85xBZ1K-5W)
 
 ## Notes
-
 Describe any challenges encountered while building the app.
 	• Connecting the scenes together
 
